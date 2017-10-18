@@ -1,3 +1,10 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
+
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 200%;
+    
+}
 .navbar {
     background-color: #9b59b6;
     
